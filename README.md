@@ -1,4 +1,7 @@
-# How Trustworthy Is This Yelp Review?
+# How Trustworthy Is This Yelp Review?   
+Jason Wien   
+August 2017
+
 One of the challenges with using websites like Yelp to help you decide whether to go to a restaurant or not is that not all reviews tend to be trustworthy. Often, just based on reading the review one can see that the person writing it might be pickier than the average customer or might have just had a bad experience. My goal was to write a machine learning algorithm to pick out these types of reviews. 
 
 
